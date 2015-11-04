@@ -1,5 +1,5 @@
 # SANER2016
-This GitHub repository contains the datasets that we has generated and processed for the paper (currently under submission) *When GitHub meets CRAN: An Analysis of Inter-Repository Package Dependency Problems*, co-authored by A. Decan, T. Mens, M. Claes, Ph. Grosjean (COMPLEXYS Research Institute, University of Mons, Belgium)
+This GitHub repository contains the datasets that we have generated and processed for the paper (currently under submission) *When GitHub meets CRAN: An Analysis of Inter-Repository Package Dependency Problems*, co-authored by A. Decan, T. Mens, M. Claes, Ph. Grosjean (COMPLEXYS Research Institute, University of Mons, Belgium)
 
 ## CRAN results 
  - checks-history.csv.gz : results of the R CMD check on CRAN.
